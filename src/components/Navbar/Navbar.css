@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Alef:wght@700&display=swap');
+
+.navBar {
+    display: flex !important;
+    justify-content: flex-end;
+    background-color: rgb(78, 78, 78);
+}
+
+.navLink {
+    padding: 15px !important;
+    color: rgb(255, 255, 255) !important;
+    font-family: 'Alef', sans-serif;
+    font-size: 1.1vh !important;
+}
+
+.navLink:hover {
+    background-color: red;
+}
