@@ -3,6 +3,7 @@ import Nav from 'react-bootstrap/Nav';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Navbar.css';
 import { Link } from 'react-router-dom';
+import { Search } from '../Search';
 
 export const Navbar = () => {
   return (
